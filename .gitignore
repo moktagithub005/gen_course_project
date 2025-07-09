@@ -8,4 +8,3 @@ __pycache__/
 log_generation/
 chroma_store/
 faiss_store/
-
