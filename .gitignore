@@ -1,1 +1,11 @@
+# Block secrets and large files
 *.env
+token.json
+*.pkl
+*.sqlite3
+*.bin
+__pycache__/
+log_generation/
+chroma_store/
+faiss_store/
+
